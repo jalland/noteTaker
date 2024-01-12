@@ -12,6 +12,8 @@ https://github.com/jalland/noteTaker
 https://calm-escarpment-87979-71000dcf37e1.herokuapp.com/ 
 
 ## Screenshot
+![Screen Shot 2024-01-12 at 1 26 48 PM](https://github.com/jalland/noteTaker/assets/15932648/dad771fb-3ac7-4343-897f-db1c6dec443b)
+
 
 
 ## User Story
