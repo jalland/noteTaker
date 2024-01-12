@@ -4,7 +4,7 @@
 
 This application allows a user to create a new note. A list of saved notes is viewed on the left side of the screen. A user can click on a saved note to view its content. A user can keep adding new notes, or they can delete saved notes. 
 
-## Git code
+## Github code
 https://github.com/jalland/noteTaker 
 
 
