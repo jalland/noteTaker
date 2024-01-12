@@ -4,7 +4,8 @@ const fs = require('fs');
 const notesData = require('./db/db.json');
 const uuid = require('./helpers/uuid');
 const { triggerAsyncId } = require('async_hooks');
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
+//const PORT = 3001;
 
 const app = express();
 
